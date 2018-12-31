@@ -281,8 +281,8 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
-      type: example
+      path: "/example"
+      type: posts
     values:
       layout: single
       author_profile: true
